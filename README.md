@@ -64,4 +64,4 @@ Fórmulas: SE, E, OU, PROCURAR
 Formatação condicional baseada em texto
 
 # 📁 Arquivo
-[📊 Download do arquivo desafio-excel.xlsx](./src/desafio-excel.xlsx)
+[📊 Download do arquivo desafio-excel.xlsx](./desafio-excel.xlsx)
